@@ -1,2 +1,2 @@
 # Demo
-Creating a README markdown file :(
+Creating a README markdown file :)
